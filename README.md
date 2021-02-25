@@ -1,13 +1,13 @@
-### Salut je suis Robin 👋
+# Salut je suis Robin 👋
 
 Développeur front chez [Gorille](https://gorille.co), ex MMI et j'étudie actuellement aux [Gobelins](https://www.gobelins.fr/)
 
-### Où me trouver 🌎
+## Où me trouver 🌎
 
 - [Github](https://github.com/robinlrx)
 - [Portfolio](https://robinleroux.fr)
 
-### Technos utilisés 💻
+## Technos utilisés 👨‍💻
 
 ```js
 const robin = {
