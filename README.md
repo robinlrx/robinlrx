@@ -7,7 +7,7 @@ Développeur front chez [Gorille](https://gorille.co), ex MMI et j'étudie actue
 - [Github](https://github.com/robinlrx)
 - [Portfolio](https://robinleroux.fr)
 
-## Technos utilisés 👨‍💻
+## Technos utilisées 👨‍💻
 
 ```js
 const robin = {
