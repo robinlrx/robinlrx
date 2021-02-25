@@ -1,6 +1,6 @@
 ### Salut je suis Robin 👋
 
-Développeur front chez [Gorille](https://gorille.co), ex MMI et actuellement aux [Gobelins](https://www.gobelins.fr/)
+Développeur front chez [Gorille](https://gorille.co), ex MMI et j'étudie actuellement aux [Gobelins](https://www.gobelins.fr/)
 
 ### Où me trouver 🌎
 
@@ -12,7 +12,7 @@ Développeur front chez [Gorille](https://gorille.co), ex MMI et actuellement au
 ```js
 const robin = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Vue, React Native, Three, Node, SASS, Snowpack, Webpack]
+  tools: [React, Vue, React Native, Three, Snowpack, Webpack, Node, SASS]
 }
 ```
 
