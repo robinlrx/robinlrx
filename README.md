@@ -12,7 +12,7 @@ Développeur front chez [Gorille](https://gorille.co), ex MMI et j'étudie actue
 ```js
 const robin = {
   code: [Javascript, HTML, CSS],
-  tools: [Vue.js, React, React Native, Three, SASS]
+  tools: [Vue, React, React Native, Three, SASS]
 }
 ```
 
