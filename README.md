@@ -1,7 +1,5 @@
 # Salut je suis Robin 👋
 
-Développeur front chez [Gorille](https://gorille.co), ex MMI et j'étudie actuellement aux [Gobelins](https://www.gobelins.fr/)
-
 ## Où me trouver 🌍
 
 - [Github](https://github.com/robinlrx)
@@ -12,7 +10,7 @@ Développeur front chez [Gorille](https://gorille.co), ex MMI et j'étudie actue
 ```js
 const robin = {
   code: [Javascript, HTML, CSS],
-  tools: [Vue, React, React Native, Three, SASS]
+  tools: [Vue, React, React Native, Three, SASS, Astro]
 }
 ```
 
