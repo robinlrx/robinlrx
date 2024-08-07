@@ -4,7 +4,7 @@
 
 - [Github](https://github.com/robinlrx)
 - [Portfolio](https://robinleroux.fr)
-- [LinkedIn](www.linkedin.com/in/robin-l-40471417b)
+- [LinkedIn](https://www.linkedin.com/in/robin-l-40471417b)
 
 ## Technos utilisées 👨‍💻
 
