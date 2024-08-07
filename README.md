@@ -4,13 +4,14 @@
 
 - [Github](https://github.com/robinlrx)
 - [Portfolio](https://robinleroux.fr)
+- [LinkedIn](www.linkedin.com/in/robin-l-40471417b)
 
 ## Technos utilisées 👨‍💻
 
 ```js
 const robin = {
   code: [Javascript, HTML, CSS],
-  tools: [Vue, React, React Native, Three, SASS, Astro]
+  tools: [Vue, React, React Native, Three, SASS, Astro, Webflow, Firebase]
 }
 ```
 
